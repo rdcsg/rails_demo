@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rdcsg/rails_demo.png?label=ready&title=Ready)](https://waffle.io/rdcsg/rails_demo)
 # README
 
 This README would normally document whatever steps are necessary to get the
